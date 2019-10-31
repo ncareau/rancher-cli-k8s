@@ -1,3 +1,7 @@
+# Deprecated
+
+This repo is now deprecated. I have created a new repo with the same idea but updated regularly: https://github.com/ncareau/docker-rancher-cli-kubectl
+
 # rancher-cli-k8s
 Rancher v2 CLI with kubectl
 
